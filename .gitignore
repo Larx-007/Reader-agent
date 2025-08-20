@@ -28,6 +28,7 @@ Thumbs.db
 *.log
 temp
 *.tmp
+experiment
 
 # Test and coverage reports
 htmlcov/
