@@ -1,2 +1,7 @@
+asyncio
 python-dotenv
-streamlit
+langchain
+langchain-openai
+langchain-core
+langchain-community
+pymupdf
